@@ -2,7 +2,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="IgnoreFilesInGit.4b7e0f8a-b4c6-48a7-afb1-0151aaf5c4e1" Version="1.0" Language="en-US" Publisher="Christoph Mett" />
-        <DisplayName>IgnoreFilesInGit</DisplayName>
+        <DisplayName>Ignore Files in Git</DisplayName>
         <Description xml:space="preserve">Allows you to stop checking in files that you want in your Git repo, but don't want *new* changes in your repo for, like app.config or similar files.</Description>
         <License>Resources\LICENSE</License>
         <Icon>Resources\Icon.png</Icon>
