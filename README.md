@@ -1,5 +1,9 @@
 # Ignore Files in Git
 
+Download File Nesting from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ChristophMett.IgnoreFilesInGit).
+
+---------------------------------------------------------------
+
 Know the struggle of having .config or similar files in your repo which are used as a template, but then should be updated with your own local settings without being checked in again?
 
 Then this extension is for you!
