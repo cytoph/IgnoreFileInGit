@@ -1,6 +1,6 @@
 # Ignore Files in Git
 
-Download File Nesting from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ChristophMett.IgnoreFilesInGit).
+Download the extension from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ChristophMett.IgnoreFilesInGit).
 
 ---------------------------------------------------------------
 
